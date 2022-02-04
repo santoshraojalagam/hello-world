@@ -3,8 +3,14 @@
   <h2>Register Form</h2>
   <div class="input-container">
     <i class="fa fa-user icon"></i>
-    <input class="input-field" type="text" placeholder="Username" name="usrnm">
+    <input class="input-field" type="text" placeholder="FirstName" name="fstname">
   </div>
+
+  <div class="input-container">
+    <i class="fa fa-user icon"></i>
+    <input class="input-field" type="text" placeholder="LastName" name="lstname">
+  </div>
+  
 
   <div class="input-container">
     <i class="fa fa-envelope icon"></i>
@@ -12,8 +18,8 @@
   </div>
 
   <div class="input-container">
-    <i class="fa fa-key icon"></i>
-    <input class="input-field" type="password" placeholder="Password" name="psw">
+    <i class="fa fa-user icon"></i>
+    <input class="input-field" type="text" placeholder="City" name="cty">
   </div>
 
   <button type="submit" class="btn">Register</button>
