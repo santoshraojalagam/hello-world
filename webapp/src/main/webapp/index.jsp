@@ -1,3 +1,4 @@
+
 <form action="/action_page.php">
   <h2>Register Form</h2>
   <div class="input-container">
